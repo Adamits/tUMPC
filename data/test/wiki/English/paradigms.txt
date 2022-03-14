@@ -1,0 +1,2481 @@
+jeer	jeered	V;PST
+jeer	jeered	V;V.PTCP;PST
+jeer	jeering	V;V.PTCP;PRS
+jeer	jeers	V;3;SG;PRS
+jeer	jeer	V;NFIN
+
+shield	shielded	V;PST
+shield	shielded	V;V.PTCP;PST
+shield	shielding	V;V.PTCP;PRS
+shield	shields	V;3;SG;PRS
+shield	shield	V;NFIN
+
+pile	piled	V;PST
+pile	piled	V;V.PTCP;PST
+pile	piles	V;3;SG;PRS
+pile	pile	V;NFIN
+pile	piling	V;V.PTCP;PRS
+
+test	tested	V;PST
+test	tested	V;V.PTCP;PST
+test	testing	V;V.PTCP;PRS
+test	tests	V;3;SG;PRS
+test	test	V;NFIN
+
+bow	bowed	V;PST
+bow	bowed	V;V.PTCP;PST
+bow	bowing	V;V.PTCP;PRS
+bow	bows	V;3;SG;PRS
+bow	bow	V;NFIN
+
+rebuild	rebuilding	V;V.PTCP;PRS
+rebuild	rebuilds	V;3;SG;PRS
+rebuild	rebuild	V;NFIN
+rebuild	rebuilt	V;PST
+rebuild	rebuilt	V;V.PTCP;PST
+
+overflow	overflowed	V;PST
+overflow	overflowed	V;V.PTCP;PST
+overflow	overflowing	V;V.PTCP;PRS
+overflow	overflows	V;3;SG;PRS
+overflow	overflow	V;NFIN
+
+shave	shaved	V;PST
+shave	shaved	V;V.PTCP;PST
+shave	shaven	V;V.PTCP;PST
+shave	shaves	V;3;SG;PRS
+shave	shave	V;NFIN
+shave	shaving	V;V.PTCP;PRS
+shave	shove	V;PST
+
+tyek	took	V;PST
+tyek	tyeken	V;V.PTCP;PST
+tyek	tyekin	V;V.PTCP;PRS
+tyek	tyeks	V;3;SG;PRS
+tyek	tyek	V;NFIN
+
+cluster	clustered	V;PST
+cluster	clustered	V;V.PTCP;PST
+cluster	clustering	V;V.PTCP;PRS
+cluster	clusters	V;3;SG;PRS
+cluster	cluster	V;NFIN
+
+lip	lipped	V;PST
+lip	lipped	V;V.PTCP;PST
+lip	lipping	V;V.PTCP;PRS
+lip	lips	V;3;SG;PRS
+lip	lip	V;NFIN
+
+exercise	exercised	V;PST
+exercise	exercised	V;V.PTCP;PST
+exercise	exercises	V;3;SG;PRS
+exercise	exercise	V;NFIN
+exercise	exercising	V;V.PTCP;PRS
+
+enter	entered	V;PST
+enter	entered	V;V.PTCP;PST
+enter	entering	V;V.PTCP;PRS
+enter	enters	V;3;SG;PRS
+enter	enter	V;NFIN
+
+receive	received	V;PST
+receive	received	V;V.PTCP;PST
+receive	receives	V;3;SG;PRS
+receive	receive	V;NFIN
+receive	receiving	V;V.PTCP;PRS
+
+compare	compared	V;PST
+compare	compared	V;V.PTCP;PST
+compare	compares	V;3;SG;PRS
+compare	compare	V;NFIN
+compare	comparing	V;V.PTCP;PRS
+
+curse	cursed	V;PST
+curse	cursed	V;V.PTCP;PST
+curse	curses	V;3;SG;PRS
+curse	curse	V;NFIN
+curse	cursing	V;V.PTCP;PRS
+curse	curst	V;PST
+curse	curst	V;V.PTCP;PST
+
+guest	guested	V;PST
+guest	guested	V;V.PTCP;PST
+guest	guesting	V;V.PTCP;PRS
+guest	guests	V;3;SG;PRS
+guest	guest	V;NFIN
+
+wish	wished	V;PST
+wish	wished	V;V.PTCP;PST
+wish	wishes	V;3;SG;PRS
+wish	wishing	V;V.PTCP;PRS
+wish	wish	V;NFIN
+
+farm	farmed	V;PST
+farm	farmed	V;V.PTCP;PST
+farm	farming	V;V.PTCP;PRS
+farm	farms	V;3;SG;PRS
+farm	farm	V;NFIN
+
+base	based	V;PST
+base	based	V;V.PTCP;PST
+base	bases	V;3;SG;PRS
+base	base	V;NFIN
+base	basing	V;V.PTCP;PRS
+
+king	kinged	V;PST
+king	kinged	V;V.PTCP;PST
+king	kinging	V;V.PTCP;PRS
+king	kings	V;3;SG;PRS
+king	king	V;NFIN
+
+case	cased	V;PST
+case	cased	V;V.PTCP;PST
+case	cases	V;3;SG;PRS
+case	case	V;NFIN
+case	casing	V;V.PTCP;PRS
+
+shoot	shooting	V;V.PTCP;PRS
+shoot	shoots	V;3;SG;PRS
+shoot	shoot	V;NFIN
+shoot	shotten	V;V.PTCP;PST
+shoot	shot	V;PST
+shoot	shot	V;V.PTCP;PST
+
+matter	mattered	V;PST
+matter	mattered	V;V.PTCP;PST
+matter	mattering	V;V.PTCP;PRS
+matter	matters	V;3;SG;PRS
+matter	matter	V;NFIN
+
+spear	speared	V;PST
+spear	speared	V;V.PTCP;PST
+spear	spearing	V;V.PTCP;PRS
+spear	spears	V;3;SG;PRS
+spear	spear	V;NFIN
+
+horn	horned	V;PST
+horn	horned	V;V.PTCP;PST
+horn	horning	V;V.PTCP;PRS
+horn	horns	V;3;SG;PRS
+horn	horn	V;NFIN
+
+kiss	kissed	V;PST
+kiss	kissed	V;V.PTCP;PST
+kiss	kisses	V;3;SG;PRS
+kiss	kissing	V;V.PTCP;PRS
+kiss	kiss	V;NFIN
+
+judge	judged	V;PST
+judge	judged	V;V.PTCP;PST
+judge	judges	V;3;SG;PRS
+judge	judge	V;NFIN
+judge	judging	V;V.PTCP;PRS
+
+circle	circled	V;PST
+circle	circled	V;V.PTCP;PST
+circle	circles	V;3;SG;PRS
+circle	circle	V;NFIN
+circle	circling	V;V.PTCP;PRS
+
+forgive	forgave	V;PST
+forgive	forgiven	V;V.PTCP;PST
+forgive	forgives	V;3;SG;PRS
+forgive	forgive	V;NFIN
+forgive	forgiving	V;V.PTCP;PRS
+
+advise	advised	V;PST
+advise	advised	V;V.PTCP;PST
+advise	advises	V;3;SG;PRS
+advise	advise	V;NFIN
+advise	advising	V;V.PTCP;PRS
+
+struggle	struggled	V;PST
+struggle	struggled	V;V.PTCP;PST
+struggle	struggles	V;3;SG;PRS
+struggle	struggle	V;NFIN
+struggle	struggling	V;V.PTCP;PRS
+
+overjoy	overjoyed	V;PST
+overjoy	overjoyed	V;V.PTCP;PST
+overjoy	overjoying	V;V.PTCP;PRS
+overjoy	overjoys	V;3;SG;PRS
+overjoy	overjoy	V;NFIN
+
+lash	lashed	V;PST
+lash	lashed	V;V.PTCP;PST
+lash	lashes	V;3;SG;PRS
+lash	lashing	V;V.PTCP;PRS
+lash	lash	V;NFIN
+
+astonish	astonished	V;PST
+astonish	astonished	V;V.PTCP;PST
+astonish	astonishes	V;3;SG;PRS
+astonish	astonishing	V;V.PTCP;PRS
+astonish	astonish	V;NFIN
+
+note	noted	V;PST
+note	noted	V;V.PTCP;PST
+note	notes	V;3;SG;PRS
+note	note	V;NFIN
+note	noting	V;V.PTCP;PRS
+
+mixe	mixed	V;PST
+mixe	mixed	V;V.PTCP;PST
+mixe	mixes	V;3;SG;PRS
+mixe	mixe	V;NFIN
+mixe	mixing	V;V.PTCP;PRS
+mixe	mixt	V;PST
+mixe	mixt	V;V.PTCP;PST
+
+on	oned	V;PST
+on	oned	V;V.PTCP;PST
+on	oning	V;V.PTCP;PRS
+on	ons	V;3;SG;PRS
+on	on	V;NFIN
+
+rescue	rescued	V;PST
+rescue	rescued	V;V.PTCP;PST
+rescue	rescues	V;3;SG;PRS
+rescue	rescue	V;NFIN
+rescue	rescuing	V;V.PTCP;PRS
+
+wear	weared	V;PST
+wear	weared	V;V.PTCP;PST
+wear	wearing	V;V.PTCP;PRS
+wear	wears	V;3;SG;PRS
+wear	wear	V;NFIN
+wear	wore	V;PST
+wear	worn	V;V.PTCP;PST
+
+size	sized	V;PST
+size	sized	V;V.PTCP;PST
+size	sizes	V;3;SG;PRS
+size	size	V;NFIN
+size	sizing	V;V.PTCP;PRS
+
+house	housed	V;PST
+house	housed	V;V.PTCP;PST
+house	houses	V;3;SG;PRS
+house	house	V;NFIN
+house	housing	V;V.PTCP;PRS
+
+belly	bellied	V;PST
+belly	bellied	V;V.PTCP;PST
+belly	bellies	V;3;SG;PRS
+belly	bellying	V;V.PTCP;PRS
+belly	belly	V;NFIN
+
+night	nighted	V;PST
+night	nighted	V;V.PTCP;PST
+night	nighting	V;V.PTCP;PRS
+night	nights	V;3;SG;PRS
+night	night	V;NFIN
+
+form	formed	V;PST
+form	formed	V;V.PTCP;PST
+form	forming	V;V.PTCP;PRS
+form	forms	V;3;SG;PRS
+form	form	V;NFIN
+
+leap	leaped	V;PST
+leap	leaped	V;V.PTCP;PST
+leap	leaping	V;V.PTCP;PRS
+leap	leaps	V;3;SG;PRS
+leap	leapt	V;PST
+leap	leapt	V;V.PTCP;PST
+leap	leap	V;NFIN
+leap	lept	V;PST
+leap	lopen	V;V.PTCP;PST
+leap	lope	V;PST
+
+row	rowed	V;PST
+row	rowed	V;V.PTCP;PST
+row	rowing	V;V.PTCP;PRS
+row	rows	V;3;SG;PRS
+row	row	V;NFIN
+
+bless	blessed	V;PST
+bless	blessed	V;V.PTCP;PST
+bless	blesses	V;3;SG;PRS
+bless	blessing	V;V.PTCP;PRS
+bless	bless	V;NFIN
+bless	blest	V;PST
+bless	blest	V;V.PTCP;PST
+
+guide	guided	V;PST
+guide	guided	V;V.PTCP;PST
+guide	guides	V;3;SG;PRS
+guide	guide	V;NFIN
+guide	guiding	V;V.PTCP;PRS
+
+tail	tailed	V;PST
+tail	tailed	V;V.PTCP;PST
+tail	tailing	V;V.PTCP;PRS
+tail	tails	V;3;SG;PRS
+tail	tail	V;NFIN
+
+store	stored	V;PST
+store	stored	V;V.PTCP;PST
+store	stores	V;3;SG;PRS
+store	store	V;NFIN
+store	storing	V;V.PTCP;PRS
+
+better	bettered	V;PST
+better	bettered	V;V.PTCP;PST
+better	bettering	V;V.PTCP;PRS
+better	betters	V;3;SG;PRS
+better	better	V;NFIN
+
+smooth	smoothed	V;PST
+smooth	smoothed	V;V.PTCP;PST
+smooth	smoothing	V;V.PTCP;PRS
+smooth	smooths	V;3;SG;PRS
+smooth	smooth	V;NFIN
+
+burn	burned	V;PST
+burn	burned	V;V.PTCP;PST
+burn	burning	V;V.PTCP;PRS
+burn	burns	V;3;SG;PRS
+burn	burnt	V;PST
+burn	burnt	V;V.PTCP;PST
+burn	burn	V;NFIN
+
+calve	calved	V;PST
+calve	calved	V;V.PTCP;PST
+calve	calves	V;3;SG;PRS
+calve	calve	V;NFIN
+calve	calving	V;V.PTCP;PRS
+
+sharp	sharped	V;PST
+sharp	sharped	V;V.PTCP;PST
+sharp	sharping	V;V.PTCP;PRS
+sharp	sharps	V;3;SG;PRS
+sharp	sharp	V;NFIN
+
+band	banded	V;PST
+band	banded	V;V.PTCP;PST
+band	banding	V;V.PTCP;PRS
+band	bands	V;3;SG;PRS
+band	band	V;NFIN
+
+general	generaled	V;PST
+general	generaled	V;V.PTCP;PST
+general	generaling	V;V.PTCP;PRS
+general	generalled	V;PST
+general	generalled	V;V.PTCP;PST
+general	generalling	V;V.PTCP;PRS
+general	generals	V;3;SG;PRS
+general	general	V;NFIN
+
+dream	dreamed	V;PST
+dream	dreamed	V;V.PTCP;PST
+dream	dreaming	V;V.PTCP;PRS
+dream	dreams	V;3;SG;PRS
+dream	dreamt	V;PST
+dream	dreamt	V;V.PTCP;PST
+dream	dream	V;NFIN
+dream	drempt	V;PST
+dream	drempt	V;V.PTCP;PST
+
+yes	yeses	V;3;SG;PRS
+yes	yessed	V;PST
+yes	yessed	V;V.PTCP;PST
+yes	yessing	V;V.PTCP;PRS
+yes	yes	V;NFIN
+
+bring	bringing	V;V.PTCP;PRS
+bring	brings	V;3;SG;PRS
+bring	bring	V;NFIN
+bring	brought	V;PST
+bring	brought	V;V.PTCP;PST
+
+leaf	leafed	V;PST
+leaf	leafed	V;V.PTCP;PST
+leaf	leafing	V;V.PTCP;PRS
+leaf	leafs	V;3;SG;PRS
+leaf	leaf	V;NFIN
+
+brother	brothered	V;PST
+brother	brothered	V;V.PTCP;PST
+brother	brothering	V;V.PTCP;PRS
+brother	brothers	V;3;SG;PRS
+brother	brother	V;NFIN
+
+observe	observed	V;PST
+observe	observed	V;V.PTCP;PST
+observe	observes	V;3;SG;PRS
+observe	observe	V;NFIN
+observe	observing	V;V.PTCP;PRS
+
+route	routed	V;PST
+route	routed	V;V.PTCP;PST
+route	routeing	V;V.PTCP;PRS
+route	routes	V;3;SG;PRS
+route	route	V;NFIN
+route	routing	V;V.PTCP;PRS
+
+front	fronted	V;PST
+front	fronted	V;V.PTCP;PST
+front	fronting	V;V.PTCP;PRS
+front	fronts	V;3;SG;PRS
+front	front	V;NFIN
+
+piece	pieced	V;PST
+piece	pieced	V;V.PTCP;PST
+piece	pieces	V;3;SG;PRS
+piece	piece	V;NFIN
+piece	piecing	V;V.PTCP;PRS
+piece	together	V;PST
+piece	together	V;V.PTCP;PST
+
+correct	corrected	V;PST
+correct	corrected	V;V.PTCP;PST
+correct	correcting	V;V.PTCP;PRS
+correct	corrects	V;3;SG;PRS
+correct	correct	V;NFIN
+
+material	materialled	V;PST
+material	materialled	V;V.PTCP;PST
+material	materialling	V;V.PTCP;PRS
+material	materials	V;3;SG;PRS
+material	material	V;NFIN
+
+a	a	V;NFIN
+
+proof	proofed	V;PST
+proof	proofed	V;V.PTCP;PST
+proof	proofing	V;V.PTCP;PRS
+proof	proofs	V;3;SG;PRS
+proof	proof	V;NFIN
+
+beach	beached	V;PST
+beach	beached	V;V.PTCP;PST
+beach	beaches	V;3;SG;PRS
+beach	beaching	V;V.PTCP;PRS
+beach	beach	V;NFIN
+
+need	needed	V;PST
+need	needed	V;V.PTCP;PST
+need	needing	V;V.PTCP;PRS
+need	needs	V;3;SG;PRS
+need	need	V;NFIN
+
+wrinkle	wrinkled	V;PST
+wrinkle	wrinkled	V;V.PTCP;PST
+wrinkle	wrinkles	V;3;SG;PRS
+wrinkle	wrinkle	V;NFIN
+wrinkle	wrinkling	V;V.PTCP;PRS
+
+darken	darkened	V;PST
+darken	darkened	V;V.PTCP;PST
+darken	darkening	V;V.PTCP;PRS
+darken	darkens	V;3;SG;PRS
+darken	darken	V;NFIN
+
+stretch	straight	V;PST
+stretch	straight	V;V.PTCP;PST
+stretch	straught	V;PST
+stretch	straught	V;V.PTCP;PST
+stretch	stretched	V;PST
+stretch	stretched	V;V.PTCP;PST
+stretch	stretches	V;3;SG;PRS
+stretch	stretching	V;V.PTCP;PRS
+stretch	stretch	V;NFIN
+
+fall	fallen	V;V.PTCP;PST
+fall	falling	V;V.PTCP;PRS
+fall	falls	V;3;SG;PRS
+fall	fall	V;NFIN
+fall	felled	V;PST
+fall	felled	V;V.PTCP;PST
+fall	fell	V;PST
+
+wail	wailed	V;PST
+wail	wailed	V;V.PTCP;PST
+wail	wailing	V;V.PTCP;PRS
+wail	wails	V;3;SG;PRS
+wail	wail	V;NFIN
+
+finger	fingered	V;PST
+finger	fingered	V;V.PTCP;PST
+finger	fingering	V;V.PTCP;PRS
+finger	fingers	V;3;SG;PRS
+finger	finger	V;NFIN
+
+absent	absented	V;PST
+absent	absented	V;V.PTCP;PST
+absent	absenting	V;V.PTCP;PRS
+absent	absents	V;3;SG;PRS
+absent	absent	V;NFIN
+
+grow	grew	V;PST
+grow	growing	V;V.PTCP;PRS
+grow	grown	V;V.PTCP;PST
+grow	grows	V;3;SG;PRS
+grow	grow	V;NFIN
+
+knock	knocked	V;PST
+knock	knocked	V;V.PTCP;PST
+knock	knocking	V;V.PTCP;PRS
+knock	knocks	V;3;SG;PRS
+knock	knock	V;NFIN
+
+flour	floured	V;PST
+flour	floured	V;V.PTCP;PST
+flour	flouring	V;V.PTCP;PRS
+flour	flours	V;3;SG;PRS
+flour	flour	V;NFIN
+
+spend	spending	V;V.PTCP;PRS
+spend	spends	V;3;SG;PRS
+spend	spend	V;NFIN
+spend	spent	V;PST
+spend	spent	V;V.PTCP;PST
+
+ween	weened	V;PST
+ween	weened	V;V.PTCP;PST
+ween	weening	V;V.PTCP;PRS
+ween	weens	V;3;SG;PRS
+ween	ween	V;NFIN
+ween	wende	V;PST
+ween	wend	V;V.PTCP;PST
+ween	wente	V;PST
+ween	went	V;V.PTCP;PST
+
+reply	replied	V;PST
+reply	replied	V;V.PTCP;PST
+reply	replies	V;3;SG;PRS
+reply	replying	V;V.PTCP;PRS
+reply	reply	V;NFIN
+
+wonder	wondered	V;PST
+wonder	wondered	V;V.PTCP;PST
+wonder	wondering	V;V.PTCP;PRS
+wonder	wonders	V;3;SG;PRS
+wonder	wonder	V;NFIN
+
+servant	servanted	V;PST
+servant	servanted	V;V.PTCP;PST
+servant	servanting	V;V.PTCP;PRS
+servant	servants	V;3;SG;PRS
+servant	servant	V;NFIN
+
+suppose	supposed	V;PST
+suppose	supposed	V;V.PTCP;PST
+suppose	supposes	V;3;SG;PRS
+suppose	suppose	V;NFIN
+suppose	supposing	V;V.PTCP;PRS
+
+frustrate	frustrated	V;PST
+frustrate	frustrated	V;V.PTCP;PST
+frustrate	frustrates	V;3;SG;PRS
+frustrate	frustrate	V;NFIN
+frustrate	frustrating	V;V.PTCP;PRS
+
+mak	made	V;PST
+mak	made	V;V.PTCP;PST
+mak	maked	V;PST
+mak	maked	V;V.PTCP;PST
+mak	makin	V;V.PTCP;PRS
+mak	maks	V;3;SG;PRS
+mak	mak	V;NFIN
+
+felt	felted	V;PST
+felt	felted	V;V.PTCP;PST
+felt	felting	V;V.PTCP;PRS
+felt	felts	V;3;SG;PRS
+felt	felt	V;NFIN
+
+side	sided	V;PST
+side	sided	V;V.PTCP;PST
+side	sides	V;3;SG;PRS
+side	side	V;NFIN
+side	siding	V;V.PTCP;PRS
+
+rose	rosed	V;PST
+rose	rosed	V;V.PTCP;PST
+rose	roses	V;3;SG;PRS
+rose	rose	V;NFIN
+rose	rosing	V;V.PTCP;PRS
+
+see	saw	V;PST
+see	seeing	V;V.PTCP;PRS
+see	seen	V;V.PTCP;PST
+see	sees	V;3;SG;PRS
+see	see	V;NFIN
+
+vote	voted	V;PST
+vote	voted	V;V.PTCP;PST
+vote	votes	V;3;SG;PRS
+vote	vote	V;NFIN
+vote	voting	V;V.PTCP;PRS
+
+invite	invited	V;PST
+invite	invited	V;V.PTCP;PST
+invite	invites	V;3;SG;PRS
+invite	invite	V;NFIN
+invite	inviting	V;V.PTCP;PRS
+
+express	expressed	V;PST
+express	expressed	V;V.PTCP;PST
+express	expresses	V;3;SG;PRS
+express	expressing	V;V.PTCP;PRS
+express	express	V;NFIN
+
+believe	believed	V;PST
+believe	believed	V;V.PTCP;PST
+believe	believes	V;3;SG;PRS
+believe	believe	V;NFIN
+believe	believing	V;V.PTCP;PRS
+
+allow	allowed	V;PST
+allow	allowed	V;V.PTCP;PST
+allow	allowing	V;V.PTCP;PRS
+allow	allows	V;3;SG;PRS
+allow	allow	V;NFIN
+
+crush	crushed	V;PST
+crush	crushed	V;V.PTCP;PST
+crush	crushes	V;3;SG;PRS
+crush	crushing	V;V.PTCP;PRS
+crush	crush	V;NFIN
+
+tow	towed	V;PST
+tow	towed	V;V.PTCP;PST
+tow	towing	V;V.PTCP;PRS
+tow	tows	V;3;SG;PRS
+tow	tow	V;NFIN
+
+devour	devoured	V;PST
+devour	devoured	V;V.PTCP;PST
+devour	devouring	V;V.PTCP;PRS
+devour	devours	V;3;SG;PRS
+devour	devour	V;NFIN
+
+mad	madded	V;PST
+mad	madded	V;V.PTCP;PST
+mad	madding	V;V.PTCP;PRS
+mad	mads	V;3;SG;PRS
+mad	mad	V;NFIN
+
+bold	bolded	V;PST
+bold	bolded	V;V.PTCP;PST
+bold	bolding	V;V.PTCP;PRS
+bold	bolds	V;3;SG;PRS
+bold	bold	V;NFIN
+
+salt	salted	V;PST
+salt	salted	V;V.PTCP;PST
+salt	salting	V;V.PTCP;PRS
+salt	salts	V;3;SG;PRS
+salt	salt	V;NFIN
+
+cause	caused	V;PST
+cause	caused	V;V.PTCP;PST
+cause	causes	V;3;SG;PRS
+cause	cause	V;NFIN
+cause	causing	V;V.PTCP;PRS
+
+release	released	V;PST
+release	released	V;V.PTCP;PST
+release	releases	V;3;SG;PRS
+release	release	V;NFIN
+release	releasing	V;V.PTCP;PRS
+
+bush	bushed	V;PST
+bush	bushed	V;V.PTCP;PST
+bush	bushes	V;3;SG;PRS
+bush	bushing	V;V.PTCP;PRS
+bush	bush	V;NFIN
+
+nature	natured	V;PST
+nature	natured	V;V.PTCP;PST
+nature	natures	V;3;SG;PRS
+nature	nature	V;NFIN
+nature	naturing	V;V.PTCP;PRS
+
+wend	wended	V;PST
+wend	wended	V;V.PTCP;PST
+wend	wending	V;V.PTCP;PRS
+wend	wends	V;3;SG;PRS
+wend	wend	V;NFIN
+wend	went	V;PST
+wend	went	V;V.PTCP;PST
+
+enrich	enriched	V;PST
+enrich	enriched	V;V.PTCP;PST
+enrich	enriches	V;3;SG;PRS
+enrich	enriching	V;V.PTCP;PRS
+enrich	enrich	V;NFIN
+
+snatch	snatched	V;PST
+snatch	snatched	V;V.PTCP;PST
+snatch	snatches	V;3;SG;PRS
+snatch	snatching	V;V.PTCP;PRS
+snatch	snatch	V;NFIN
+snatch	snaught	V;PST
+snatch	snaught	V;V.PTCP;PST
+
+swamp	swamped	V;PST
+swamp	swamped	V;V.PTCP;PST
+swamp	swamping	V;V.PTCP;PRS
+swamp	swamps	V;3;SG;PRS
+swamp	swamp	V;NFIN
+
+share	shared	V;PST
+share	shared	V;V.PTCP;PST
+share	shares	V;3;SG;PRS
+share	share	V;NFIN
+share	sharing	V;V.PTCP;PRS
+
+near	neared	V;PST
+near	neared	V;V.PTCP;PST
+near	nearing	V;V.PTCP;PRS
+near	nears	V;3;SG;PRS
+near	near	V;NFIN
+
+wash	washed	V;PST
+wash	washed	V;V.PTCP;PST
+wash	washes	V;3;SG;PRS
+wash	washing	V;V.PTCP;PRS
+wash	wash	V;NFIN
+
+playe	played	V;PST
+playe	played	V;V.PTCP;PST
+playe	playes	V;3;SG;PRS
+playe	playe	V;NFIN
+playe	playing	V;V.PTCP;PRS
+
+chain	chained	V;PST
+chain	chained	V;V.PTCP;PST
+chain	chaining	V;V.PTCP;PRS
+chain	chains	V;3;SG;PRS
+chain	chain	V;NFIN
+
+steep	steeped	V;PST
+steep	steeped	V;V.PTCP;PST
+steep	steeping	V;V.PTCP;PRS
+steep	steeps	V;3;SG;PRS
+steep	steep	V;NFIN
+
+collapse	collapsed	V;PST
+collapse	collapsed	V;V.PTCP;PST
+collapse	collapses	V;3;SG;PRS
+collapse	collapse	V;NFIN
+collapse	collapsing	V;V.PTCP;PRS
+
+cum	came	V;PST
+cum	came	V;V.PTCP;PST
+cum	cummed	V;PST
+cum	cummed	V;V.PTCP;PST
+cum	cumming	V;V.PTCP;PRS
+cum	cums	V;3;SG;PRS
+cum	cum	V;NFIN
+cum	cum	V;V.PTCP;PST
+
+succeed	succeeded	V;PST
+succeed	succeeded	V;V.PTCP;PST
+succeed	succeeding	V;V.PTCP;PRS
+succeed	succeeds	V;3;SG;PRS
+succeed	succeed	V;NFIN
+
+consist	consisted	V;PST
+consist	consisted	V;V.PTCP;PST
+consist	consisting	V;V.PTCP;PRS
+consist	consists	V;3;SG;PRS
+consist	consist	V;NFIN
+
+port	ported	V;PST
+port	ported	V;V.PTCP;PST
+port	porting	V;V.PTCP;PRS
+port	ports	V;3;SG;PRS
+port	port	V;NFIN
+
+resound	resounded	V;PST
+resound	resounded	V;V.PTCP;PST
+resound	resounding	V;V.PTCP;PRS
+resound	resounds	V;3;SG;PRS
+resound	resound	V;NFIN
+
+mine	mined	V;PST
+mine	mined	V;V.PTCP;PST
+mine	mines	V;3;SG;PRS
+mine	mine	V;NFIN
+mine	mining	V;V.PTCP;PRS
+
+blue	blued	V;PST
+blue	blued	V;V.PTCP;PST
+blue	blueing	V;V.PTCP;PRS
+blue	blues	V;3;SG;PRS
+blue	blue	V;NFIN
+blue	bluing	V;V.PTCP;PRS
+
+bird	birded	V;PST
+bird	birded	V;V.PTCP;PST
+bird	birding	V;V.PTCP;PRS
+bird	birds	V;3;SG;PRS
+bird	bird	V;NFIN
+
+slip	slipped	V;PST
+slip	slipped	V;V.PTCP;PST
+slip	slipping	V;V.PTCP;PRS
+slip	slips	V;3;SG;PRS
+slip	slip	V;NFIN
+
+hen	henned	V;PST
+hen	henned	V;V.PTCP;PST
+hen	henning	V;V.PTCP;PRS
+hen	hens	V;3;SG;PRS
+hen	hen	V;NFIN
+
+pluck	plucked	V;PST
+pluck	plucked	V;V.PTCP;PST
+pluck	plucking	V;V.PTCP;PRS
+pluck	plucks	V;3;SG;PRS
+pluck	pluckt	V;PST
+pluck	pluckt	V;V.PTCP;PST
+pluck	pluck	V;NFIN
+
+number	numbered	V;PST
+number	numbered	V;V.PTCP;PST
+number	numbering	V;V.PTCP;PRS
+number	numbers	V;3;SG;PRS
+number	number	V;NFIN
+
+curtain	curtained	V;PST
+curtain	curtained	V;V.PTCP;PST
+curtain	curtaining	V;V.PTCP;PRS
+curtain	curtains	V;3;SG;PRS
+curtain	curtain	V;NFIN
+
+bite	bites	V;3;SG;PRS
+bite	bite	V;NFIN
+bite	biting	V;V.PTCP;PRS
+bite	bitten	V;V.PTCP;PST
+bite	bit	V;PST
+bite	bit	V;V.PTCP;PST
+
+grant	granted	V;PST
+grant	granted	V;V.PTCP;PST
+grant	granting	V;V.PTCP;PRS
+grant	grants	V;3;SG;PRS
+grant	grant	V;NFIN
+
+end	ended	V;PST
+end	ended	V;V.PTCP;PST
+end	ending	V;V.PTCP;PRS
+end	ends	V;3;SG;PRS
+end	end	V;NFIN
+
+experience	experienced	V;PST
+experience	experienced	V;V.PTCP;PST
+experience	experiences	V;3;SG;PRS
+experience	experience	V;NFIN
+experience	experiencing	V;V.PTCP;PRS
+
+hold	held	V;PST
+hold	held	V;V.PTCP;PST
+hold	holden	V;V.PTCP;PST
+hold	holding	V;V.PTCP;PRS
+hold	holds	V;3;SG;PRS
+hold	hold	V;NFIN
+
+rise	risen	V;V.PTCP;PST
+rise	rises	V;3;SG;PRS
+rise	rise	V;NFIN
+rise	rising	V;V.PTCP;PRS
+rise	rose	V;PST
+
+time	timed	V;PST
+time	timed	V;V.PTCP;PST
+time	times	V;3;SG;PRS
+time	time	V;NFIN
+time	timing	V;V.PTCP;PRS
+
+while	whiled	V;PST
+while	whiled	V;V.PTCP;PST
+while	whiles	V;3;SG;PRS
+while	while	V;NFIN
+while	whiling	V;V.PTCP;PRS
+
+prison	prisoned	V;PST
+prison	prisoned	V;V.PTCP;PST
+prison	prisoning	V;V.PTCP;PRS
+prison	prisons	V;3;SG;PRS
+prison	prison	V;NFIN
+
+key	keyed	V;PST
+key	keyed	V;V.PTCP;PST
+key	keying	V;V.PTCP;PRS
+key	keys	V;3;SG;PRS
+key	key	V;NFIN
+
+dive	dived	V;PST
+dive	dived	V;V.PTCP;PST
+dive	dives	V;3;SG;PRS
+dive	dive	V;NFIN
+dive	diving	V;V.PTCP;PRS
+dive	dove	V;PST
+dive	dove	V;V.PTCP;PST
+
+corner	cornered	V;PST
+corner	cornered	V;V.PTCP;PST
+corner	cornering	V;V.PTCP;PRS
+corner	corners	V;3;SG;PRS
+corner	corner	V;NFIN
+
+hightail	hightailed	V;PST
+hightail	hightailed	V;V.PTCP;PST
+hightail	hightailing	V;V.PTCP;PRS
+hightail	hightails	V;3;SG;PRS
+hightail	hightail	V;NFIN
+hightail	it	V;PST
+hightail	it	V;V.PTCP;PST
+
+shall	shall	V;3;SG;PRS
+shall	shall	V;NFIN
+shall	should	V;PST
+
+crook	crooked	V;PST
+crook	crooked	V;V.PTCP;PST
+crook	crooking	V;V.PTCP;PRS
+crook	crooks	V;3;SG;PRS
+crook	crook	V;NFIN
+
+hurry	hurried	V;PST
+hurry	hurried	V;V.PTCP;PST
+hurry	hurries	V;3;SG;PRS
+hurry	hurrying	V;V.PTCP;PRS
+hurry	hurry	V;NFIN
+
+puzzle	puzzled	V;PST
+puzzle	puzzled	V;V.PTCP;PST
+puzzle	puzzles	V;3;SG;PRS
+puzzle	puzzle	V;NFIN
+puzzle	puzzling	V;V.PTCP;PRS
+
+job	jobbed	V;PST
+job	jobbed	V;V.PTCP;PST
+job	jobbing	V;V.PTCP;PRS
+job	jobs	V;3;SG;PRS
+job	job	V;NFIN
+
+patch	patched	V;PST
+patch	patched	V;V.PTCP;PST
+patch	patches	V;3;SG;PRS
+patch	patching	V;V.PTCP;PRS
+patch	patch	V;NFIN
+
+quake	quaked	V;PST
+quake	quaked	V;V.PTCP;PST
+quake	quakes	V;3;SG;PRS
+quake	quake	V;NFIN
+quake	quaking	V;V.PTCP;PRS
+quake	quoke	V;PST
+quake	quoke	V;V.PTCP;PST
+quake	quook	V;PST
+quake	quook	V;V.PTCP;PST
+
+hesitate	hesitated	V;PST
+hesitate	hesitated	V;V.PTCP;PST
+hesitate	hesitates	V;3;SG;PRS
+hesitate	hesitate	V;NFIN
+hesitate	hesitating	V;V.PTCP;PRS
+
+lamp	lamped	V;PST
+lamp	lamped	V;V.PTCP;PST
+lamp	lamping	V;V.PTCP;PRS
+lamp	lamps	V;3;SG;PRS
+lamp	lamp	V;NFIN
+
+coast	coasted	V;PST
+coast	coasted	V;V.PTCP;PST
+coast	coasting	V;V.PTCP;PRS
+coast	coasts	V;3;SG;PRS
+coast	coast	V;NFIN
+
+pretend	pretended	V;PST
+pretend	pretended	V;V.PTCP;PST
+pretend	pretending	V;V.PTCP;PRS
+pretend	pretends	V;3;SG;PRS
+pretend	pretend	V;NFIN
+
+twinkle	twinkled	V;PST
+twinkle	twinkled	V;V.PTCP;PST
+twinkle	twinkles	V;3;SG;PRS
+twinkle	twinkle	V;NFIN
+twinkle	twinkling	V;V.PTCP;PRS
+
+code	coded	V;PST
+code	coded	V;V.PTCP;PST
+code	codes	V;3;SG;PRS
+code	code	V;NFIN
+code	coding	V;V.PTCP;PRS
+
+change	changed	V;PST
+change	changed	V;V.PTCP;PST
+change	changes	V;3;SG;PRS
+change	change	V;NFIN
+change	changing	V;V.PTCP;PRS
+
+handle	handled	V;PST
+handle	handled	V;V.PTCP;PST
+handle	handles	V;3;SG;PRS
+handle	handle	V;NFIN
+handle	handling	V;V.PTCP;PRS
+
+wise	wised	V;PST
+wise	wised	V;V.PTCP;PST
+wise	wises	V;3;SG;PRS
+wise	wise	V;NFIN
+wise	wising	V;V.PTCP;PRS
+
+lock	locked	V;PST
+lock	locked	V;V.PTCP;PST
+lock	locking	V;V.PTCP;PRS
+lock	locks	V;3;SG;PRS
+lock	lock	V;NFIN
+
+starve	starf	V;PST
+starve	starved	V;PST
+starve	starved	V;V.PTCP;PST
+starve	starves	V;3;SG;PRS
+starve	starve	V;NFIN
+starve	starving	V;V.PTCP;PRS
+starve	storven	V;V.PTCP;PST
+starve	storve	V;PST
+
+hand	handed	V;PST
+hand	handed	V;V.PTCP;PST
+hand	handing	V;V.PTCP;PRS
+hand	hands	V;3;SG;PRS
+hand	hand	V;NFIN
+
+display	displayed	V;PST
+display	displayed	V;V.PTCP;PST
+display	displaying	V;V.PTCP;PRS
+display	displays	V;3;SG;PRS
+display	display	V;NFIN
+
+descend	descended	V;PST
+descend	descended	V;V.PTCP;PST
+descend	descending	V;V.PTCP;PRS
+descend	descends	V;3;SG;PRS
+descend	descend	V;NFIN
+
+fellow	fellowed	V;PST
+fellow	fellowed	V;V.PTCP;PST
+fellow	fellowing	V;V.PTCP;PRS
+fellow	fellows	V;3;SG;PRS
+fellow	fellow	V;NFIN
+
+fill	filled	V;PST
+fill	filled	V;V.PTCP;PST
+fill	filling	V;V.PTCP;PRS
+fill	fills	V;3;SG;PRS
+fill	fill	V;NFIN
+
+cushion	cushioned	V;PST
+cushion	cushioned	V;V.PTCP;PST
+cushion	cushioning	V;V.PTCP;PRS
+cushion	cushions	V;3;SG;PRS
+cushion	cushion	V;NFIN
+
+thick	thicked	V;PST
+thick	thicked	V;V.PTCP;PST
+thick	thicking	V;V.PTCP;PRS
+thick	thicks	V;3;SG;PRS
+thick	thick	V;NFIN
+
+watch	watched	V;PST
+watch	watched	V;V.PTCP;PST
+watch	watches	V;3;SG;PRS
+watch	watching	V;V.PTCP;PRS
+watch	watch	V;NFIN
+
+mirror	mirrored	V;PST
+mirror	mirrored	V;V.PTCP;PST
+mirror	mirroring	V;V.PTCP;PRS
+mirror	mirrors	V;3;SG;PRS
+mirror	mirror	V;NFIN
+
+reason	reasoned	V;PST
+reason	reasoned	V;V.PTCP;PST
+reason	reasoning	V;V.PTCP;PRS
+reason	reasons	V;3;SG;PRS
+reason	reason	V;NFIN
+
+sway	swayed	V;PST
+sway	swayed	V;V.PTCP;PST
+sway	swaying	V;V.PTCP;PRS
+sway	sways	V;3;SG;PRS
+sway	sway	V;NFIN
+
+think	thinking	V;V.PTCP;PRS
+think	thinks	V;3;SG;PRS
+think	think	V;NFIN
+think	thought	V;PST
+think	thought	V;V.PTCP;PST
+
+swing	swang	V;PST
+swing	swinging	V;V.PTCP;PRS
+swing	swings	V;3;SG;PRS
+swing	swing	V;NFIN
+swing	swungen	V;V.PTCP;PST
+swing	swung	V;PST
+swing	swung	V;V.PTCP;PST
+
+take	taken	V;V.PTCP;PST
+take	takes	V;3;SG;PRS
+take	take	V;NFIN
+take	taking	V;V.PTCP;PRS
+take	took	V;PST
+
+member	membered	V;PST
+member	membered	V;V.PTCP;PST
+member	membering	V;V.PTCP;PRS
+member	members	V;3;SG;PRS
+member	member	V;NFIN
+
+grass	grassed	V;PST
+grass	grassed	V;V.PTCP;PST
+grass	grasses	V;3;SG;PRS
+grass	grassing	V;V.PTCP;PRS
+grass	grass	V;NFIN
+
+frighten	frightened	V;PST
+frighten	frightened	V;V.PTCP;PST
+frighten	frightening	V;V.PTCP;PRS
+frighten	frightens	V;3;SG;PRS
+frighten	frighten	V;NFIN
+
+select	selected	V;PST
+select	selected	V;V.PTCP;PST
+select	selecting	V;V.PTCP;PRS
+select	selects	V;3;SG;PRS
+select	select	V;NFIN
+
+elect	elected	V;PST
+elect	elected	V;V.PTCP;PST
+elect	electing	V;V.PTCP;PRS
+elect	elects	V;3;SG;PRS
+elect	elect	V;NFIN
+
+repeat	repeated	V;PST
+repeat	repeated	V;V.PTCP;PST
+repeat	repeating	V;V.PTCP;PRS
+repeat	repeats	V;3;SG;PRS
+repeat	repeat	V;NFIN
+
+pole	poled	V;PST
+pole	poled	V;V.PTCP;PST
+pole	poles	V;3;SG;PRS
+pole	pole	V;NFIN
+pole	poling	V;V.PTCP;PRS
+
+rash	rashed	V;PST
+rash	rashed	V;V.PTCP;PST
+rash	rashes	V;3;SG;PRS
+rash	rashing	V;V.PTCP;PRS
+rash	rash	V;NFIN
+
+avoid	avoided	V;PST
+avoid	avoided	V;V.PTCP;PST
+avoid	avoiding	V;V.PTCP;PRS
+avoid	avoids	V;3;SG;PRS
+avoid	avoid	V;NFIN
+
+control	controlled	V;PST
+control	controlled	V;V.PTCP;PST
+control	controlling	V;V.PTCP;PRS
+control	controls	V;3;SG;PRS
+control	control	V;NFIN
+
+coat	coated	V;PST
+coat	coated	V;V.PTCP;PST
+coat	coating	V;V.PTCP;PRS
+coat	coats	V;3;SG;PRS
+coat	coat	V;NFIN
+
+story	storied	V;PST
+story	storied	V;V.PTCP;PST
+story	stories	V;3;SG;PRS
+story	storying	V;V.PTCP;PRS
+story	story	V;NFIN
+
+speak	spake	V;PST
+speak	speaking	V;V.PTCP;PRS
+speak	speaks	V;3;SG;PRS
+speak	speak	V;NFIN
+speak	spoken	V;V.PTCP;PST
+speak	spoke	V;PST
+
+found	founded	V;PST
+found	founded	V;V.PTCP;PST
+found	founding	V;V.PTCP;PRS
+found	founds	V;3;SG;PRS
+found	found	V;NFIN
+
+shrivel	shriveled	V;PST
+shrivel	shriveled	V;V.PTCP;PST
+shrivel	shriveling	V;V.PTCP;PRS
+shrivel	shrivelled	V;PST
+shrivel	shrivelled	V;V.PTCP;PST
+shrivel	shrivelling	V;V.PTCP;PRS
+shrivel	shrivels	V;3;SG;PRS
+shrivel	shrivel	V;NFIN
+
+play	played	V;PST
+play	played	V;V.PTCP;PST
+play	playing	V;V.PTCP;PRS
+play	plays	V;3;SG;PRS
+play	play	V;NFIN
+
+bewitch	bewitched	V;PST
+bewitch	bewitched	V;V.PTCP;PST
+bewitch	bewitches	V;3;SG;PRS
+bewitch	bewitching	V;V.PTCP;PRS
+bewitch	bewitch	V;NFIN
+
+terrify	terrified	V;PST
+terrify	terrified	V;V.PTCP;PST
+terrify	terrifies	V;3;SG;PRS
+terrify	terrifying	V;V.PTCP;PRS
+terrify	terrify	V;NFIN
+
+figure	figured	V;PST
+figure	figured	V;V.PTCP;PST
+figure	figures	V;3;SG;PRS
+figure	figure	V;NFIN
+figure	figuring	V;V.PTCP;PRS
+
+place	placed	V;PST
+place	placed	V;V.PTCP;PST
+place	places	V;3;SG;PRS
+place	place	V;NFIN
+place	placing	V;V.PTCP;PRS
+
+tip	tipped	V;PST
+tip	tipped	V;V.PTCP;PST
+tip	tipping	V;V.PTCP;PRS
+tip	tips	V;3;SG;PRS
+tip	tip	V;NFIN
+
+invade	invaded	V;PST
+invade	invaded	V;V.PTCP;PST
+invade	invades	V;3;SG;PRS
+invade	invade	V;NFIN
+invade	invading	V;V.PTCP;PRS
+
+spool	spooled	V;PST
+spool	spooled	V;V.PTCP;PST
+spool	spooling	V;V.PTCP;PRS
+spool	spools	V;3;SG;PRS
+spool	spool	V;NFIN
+
+reregulate	reregulated	V;PST
+reregulate	reregulated	V;V.PTCP;PST
+reregulate	reregulates	V;3;SG;PRS
+reregulate	reregulate	V;NFIN
+reregulate	reregulating	V;V.PTCP;PRS
+
+pdf	pdfed	V;PST
+pdf	pdfed	V;V.PTCP;PST
+pdf	pdfing	V;V.PTCP;PRS
+pdf	pdfs	V;3;SG;PRS
+pdf	pdf	V;NFIN
+
+riddle	riddled	V;PST
+riddle	riddled	V;V.PTCP;PST
+riddle	riddles	V;3;SG;PRS
+riddle	riddle	V;NFIN
+riddle	riddling	V;V.PTCP;PRS
+
+reconfigure	reconfigured	V;PST
+reconfigure	reconfigured	V;V.PTCP;PST
+reconfigure	reconfigures	V;3;SG;PRS
+reconfigure	reconfigure	V;NFIN
+reconfigure	reconfiguring	V;V.PTCP;PRS
+
+recondition	reconditioned	V;PST
+recondition	reconditioned	V;V.PTCP;PST
+recondition	reconditioning	V;V.PTCP;PRS
+recondition	reconditions	V;3;SG;PRS
+recondition	recondition	V;NFIN
+
+outvote	outvoted	V;PST
+outvote	outvoted	V;V.PTCP;PST
+outvote	outvotes	V;3;SG;PRS
+outvote	outvote	V;NFIN
+outvote	outvoting	V;V.PTCP;PRS
+
+awestrike	awestricken	V;V.PTCP;PST
+awestrike	awestrikes	V;3;SG;PRS
+awestrike	awestrike	V;NFIN
+awestrike	awestriking	V;V.PTCP;PRS
+awestrike	awestruck	V;PST
+
+unauthorize	unauthorized	V;PST
+unauthorize	unauthorized	V;V.PTCP;PST
+unauthorize	unauthorizes	V;3;SG;PRS
+unauthorize	unauthorize	V;NFIN
+unauthorize	unauthorizing	V;V.PTCP;PRS
+
+hyperphosphorylate	hyperphosphorylated	V;PST
+hyperphosphorylate	hyperphosphorylated	V;V.PTCP;PST
+hyperphosphorylate	hyperphosphorylates	V;3;SG;PRS
+hyperphosphorylate	hyperphosphorylate	V;NFIN
+hyperphosphorylate	hyperphosphorylating	V;V.PTCP;PRS
+
+affine	affined	V;PST
+affine	affined	V;V.PTCP;PST
+affine	affines	V;3;SG;PRS
+affine	affine	V;NFIN
+affine	affining	V;V.PTCP;PRS
+
+personate	personated	V;PST
+personate	personated	V;V.PTCP;PST
+personate	personates	V;3;SG;PRS
+personate	personate	V;NFIN
+personate	personating	V;V.PTCP;PRS
+
+polemicize	polemicized	V;PST
+polemicize	polemicized	V;V.PTCP;PST
+polemicize	polemicizes	V;3;SG;PRS
+polemicize	polemicize	V;NFIN
+polemicize	polemicizing	V;V.PTCP;PRS
+
+electrolyze	electrolyzed	V;PST
+electrolyze	electrolyzed	V;V.PTCP;PST
+electrolyze	electrolyzes	V;3;SG;PRS
+electrolyze	electrolyze	V;NFIN
+electrolyze	electrolyzing	V;V.PTCP;PRS
+
+dispose	disposed	V;PST
+dispose	disposed	V;V.PTCP;PST
+dispose	disposes	V;3;SG;PRS
+dispose	dispose	V;NFIN
+dispose	disposing	V;V.PTCP;PRS
+
+geld	gelded	V;PST
+geld	gelded	V;V.PTCP;PST
+geld	gelding	V;V.PTCP;PRS
+geld	gelds	V;3;SG;PRS
+geld	geld	V;NFIN
+geld	gelt	V;PST
+geld	gelt	V;V.PTCP;PST
+
+genericise	genericised	V;PST
+genericise	genericised	V;V.PTCP;PST
+genericise	genericises	V;3;SG;PRS
+genericise	genericise	V;NFIN
+genericise	genericising	V;V.PTCP;PRS
+
+remake	remade	V;PST
+remake	remade	V;V.PTCP;PST
+remake	remakes	V;3;SG;PRS
+remake	remake	V;NFIN
+remake	remaking	V;V.PTCP;PRS
+
+download	downloaded	V;PST
+download	downloaded	V;V.PTCP;PST
+download	downloading	V;V.PTCP;PRS
+download	downloads	V;3;SG;PRS
+download	download	V;NFIN
+
+autograph	autographed	V;PST
+autograph	autographed	V;V.PTCP;PST
+autograph	autographing	V;V.PTCP;PRS
+autograph	autographs	V;3;SG;PRS
+autograph	autograph	V;NFIN
+
+demerge	demerged	V;PST
+demerge	demerged	V;V.PTCP;PST
+demerge	demerges	V;3;SG;PRS
+demerge	demerge	V;NFIN
+demerge	demerging	V;V.PTCP;PRS
+
+convoy	convoyed	V;PST
+convoy	convoyed	V;V.PTCP;PST
+convoy	convoying	V;V.PTCP;PRS
+convoy	convoys	V;3;SG;PRS
+convoy	convoy	V;NFIN
+
+focalize	focalized	V;PST
+focalize	focalized	V;V.PTCP;PST
+focalize	focalizes	V;3;SG;PRS
+focalize	focalize	V;NFIN
+focalize	focalizing	V;V.PTCP;PRS
+
+optimize	optimized	V;PST
+optimize	optimized	V;V.PTCP;PST
+optimize	optimizes	V;3;SG;PRS
+optimize	optimize	V;NFIN
+optimize	optimizing	V;V.PTCP;PRS
+
+structure	structured	V;PST
+structure	structured	V;V.PTCP;PST
+structure	structures	V;3;SG;PRS
+structure	structure	V;NFIN
+structure	structuring	V;V.PTCP;PRS
+
+parasitize	parasitized	V;PST
+parasitize	parasitized	V;V.PTCP;PST
+parasitize	parasitizes	V;3;SG;PRS
+parasitize	parasitize	V;NFIN
+parasitize	parasitizing	V;V.PTCP;PRS
+
+interbed	interbedded	V;PST
+interbed	interbedded	V;V.PTCP;PST
+interbed	interbedding	V;V.PTCP;PRS
+interbed	interbeds	V;3;SG;PRS
+interbed	interbed	V;NFIN
+
+boomerang	boomeranged	V;PST
+boomerang	boomeranged	V;V.PTCP;PST
+boomerang	boomeranging	V;V.PTCP;PRS
+boomerang	boomerangs	V;3;SG;PRS
+boomerang	boomerang	V;NFIN
+
+manhandle	manhandled	V;PST
+manhandle	manhandled	V;V.PTCP;PST
+manhandle	manhandles	V;3;SG;PRS
+manhandle	manhandle	V;NFIN
+manhandle	manhandling	V;V.PTCP;PRS
+
+commence	commenced	V;PST
+commence	commenced	V;V.PTCP;PST
+commence	commences	V;3;SG;PRS
+commence	commence	V;NFIN
+commence	commencing	V;V.PTCP;PRS
+
+update	updated	V;PST
+update	updated	V;V.PTCP;PST
+update	updates	V;3;SG;PRS
+update	update	V;NFIN
+update	updating	V;V.PTCP;PRS
+
+stratify	stratified	V;PST
+stratify	stratified	V;V.PTCP;PST
+stratify	stratifies	V;3;SG;PRS
+stratify	stratifying	V;V.PTCP;PRS
+stratify	stratify	V;NFIN
+
+extenuate	extenuated	V;PST
+extenuate	extenuated	V;V.PTCP;PST
+extenuate	extenuates	V;3;SG;PRS
+extenuate	extenuate	V;NFIN
+extenuate	extenuating	V;V.PTCP;PRS
+
+soap	soaped	V;PST
+soap	soaped	V;V.PTCP;PST
+soap	soaping	V;V.PTCP;PRS
+soap	soaps	V;3;SG;PRS
+soap	soap	V;NFIN
+
+insufflate	insufflated	V;PST
+insufflate	insufflated	V;V.PTCP;PST
+insufflate	insufflates	V;3;SG;PRS
+insufflate	insufflate	V;NFIN
+insufflate	insufflating	V;V.PTCP;PRS
+
+streamline	streamlined	V;PST
+streamline	streamlined	V;V.PTCP;PST
+streamline	streamlines	V;3;SG;PRS
+streamline	streamline	V;NFIN
+streamline	streamlining	V;V.PTCP;PRS
+
+embed	embedded	V;PST
+embed	embedded	V;V.PTCP;PST
+embed	embedding	V;V.PTCP;PRS
+embed	embeds	V;3;SG;PRS
+embed	embed	V;NFIN
+
+gesture	gestured	V;PST
+gesture	gestured	V;V.PTCP;PST
+gesture	gestures	V;3;SG;PRS
+gesture	gesture	V;NFIN
+gesture	gesturing	V;V.PTCP;PRS
+
+lase	lased	V;PST
+lase	lased	V;V.PTCP;PST
+lase	lases	V;3;SG;PRS
+lase	lase	V;NFIN
+lase	lasing	V;V.PTCP;PRS
+
+re-create	re-created	V;PST
+re-create	re-created	V;V.PTCP;PST
+re-create	re-creates	V;3;SG;PRS
+re-create	re-create	V;NFIN
+re-create	re-creating	V;V.PTCP;PRS
+
+perforate	perforated	V;PST
+perforate	perforated	V;V.PTCP;PST
+perforate	perforates	V;3;SG;PRS
+perforate	perforate	V;NFIN
+perforate	perforating	V;V.PTCP;PRS
+
+longlist	longlisted	V;PST
+longlist	longlisted	V;V.PTCP;PST
+longlist	longlisting	V;V.PTCP;PRS
+longlist	longlists	V;3;SG;PRS
+longlist	longlist	V;NFIN
+
+stablish	stablished	V;PST
+stablish	stablished	V;V.PTCP;PST
+stablish	stablishes	V;3;SG;PRS
+stablish	stablishing	V;V.PTCP;PRS
+stablish	stablish	V;NFIN
+
+subclassify	subclassified	V;PST
+subclassify	subclassified	V;V.PTCP;PST
+subclassify	subclassifies	V;3;SG;PRS
+subclassify	subclassifying	V;V.PTCP;PRS
+subclassify	subclassify	V;NFIN
+
+acclaim	acclaimed	V;PST
+acclaim	acclaimed	V;V.PTCP;PST
+acclaim	acclaiming	V;V.PTCP;PRS
+acclaim	acclaims	V;3;SG;PRS
+acclaim	acclaim	V;NFIN
+
+catalyse	catalysed	V;PST
+catalyse	catalysed	V;V.PTCP;PST
+catalyse	catalyses	V;3;SG;PRS
+catalyse	catalyse	V;NFIN
+catalyse	catalysing	V;V.PTCP;PRS
+
+portage	portaged	V;PST
+portage	portaged	V;V.PTCP;PST
+portage	portages	V;3;SG;PRS
+portage	portage	V;NFIN
+portage	portaging	V;V.PTCP;PRS
+
+buffalo	buffaloed	V;PST
+buffalo	buffaloed	V;V.PTCP;PST
+buffalo	buffaloes	V;3;SG;PRS
+buffalo	buffaloing	V;V.PTCP;PRS
+buffalo	buffalo	V;NFIN
+
+subsist	subsisted	V;PST
+subsist	subsisted	V;V.PTCP;PST
+subsist	subsisting	V;V.PTCP;PRS
+subsist	subsists	V;3;SG;PRS
+subsist	subsist	V;NFIN
+
+motive	motived	V;PST
+motive	motived	V;V.PTCP;PST
+motive	motives	V;3;SG;PRS
+motive	motive	V;NFIN
+motive	motiving	V;V.PTCP;PRS
+
+conjure	conjured	V;PST
+conjure	conjured	V;V.PTCP;PST
+conjure	conjures	V;3;SG;PRS
+conjure	conjure	V;NFIN
+conjure	conjuring	V;V.PTCP;PRS
+
+circumscribe	circumscribed	V;PST
+circumscribe	circumscribed	V;V.PTCP;PST
+circumscribe	circumscribes	V;3;SG;PRS
+circumscribe	circumscribe	V;NFIN
+circumscribe	circumscribing	V;V.PTCP;PRS
+
+deposite	deposited	V;PST
+deposite	deposited	V;V.PTCP;PST
+deposite	deposites	V;3;SG;PRS
+deposite	deposite	V;NFIN
+deposite	depositing	V;V.PTCP;PRS
+
+burthen	burthened	V;PST
+burthen	burthened	V;V.PTCP;PST
+burthen	burthening	V;V.PTCP;PRS
+burthen	burthens	V;3;SG;PRS
+burthen	burthen	V;NFIN
+
+beagle	beagled	V;PST
+beagle	beagled	V;V.PTCP;PST
+beagle	beagles	V;3;SG;PRS
+beagle	beagle	V;NFIN
+beagle	beagling	V;V.PTCP;PRS
+
+asphyxiate	asphyxiated	V;PST
+asphyxiate	asphyxiated	V;V.PTCP;PST
+asphyxiate	asphyxiates	V;3;SG;PRS
+asphyxiate	asphyxiate	V;NFIN
+asphyxiate	asphyxiating	V;V.PTCP;PRS
+
+dovetail	dovetailed	V;PST
+dovetail	dovetailed	V;V.PTCP;PST
+dovetail	dovetailing	V;V.PTCP;PRS
+dovetail	dovetails	V;3;SG;PRS
+dovetail	dovetail	V;NFIN
+
+unsay	unsaid	V;PST
+unsay	unsaid	V;V.PTCP;PST
+unsay	unsaying	V;V.PTCP;PRS
+unsay	unsays	V;3;SG;PRS
+unsay	unsay	V;NFIN
+
+rich	riched	V;PST
+rich	riched	V;V.PTCP;PST
+rich	riches	V;3;SG;PRS
+rich	riching	V;V.PTCP;PRS
+rich	rich	V;NFIN
+
+signalize	signalized	V;PST
+signalize	signalized	V;V.PTCP;PST
+signalize	signalizes	V;3;SG;PRS
+signalize	signalize	V;NFIN
+signalize	signalizing	V;V.PTCP;PRS
+
+prejudice	prejudiced	V;PST
+prejudice	prejudiced	V;V.PTCP;PST
+prejudice	prejudices	V;3;SG;PRS
+prejudice	prejudice	V;NFIN
+prejudice	prejudicing	V;V.PTCP;PRS
+
+append	appended	V;PST
+append	appended	V;V.PTCP;PST
+append	appending	V;V.PTCP;PRS
+append	appends	V;3;SG;PRS
+append	append	V;NFIN
+
+exocytose	exocytosed	V;PST
+exocytose	exocytosed	V;V.PTCP;PST
+exocytose	exocytoses	V;3;SG;PRS
+exocytose	exocytose	V;NFIN
+exocytose	exocytosing	V;V.PTCP;PRS
+
+yearn	yearned	V;PST
+yearn	yearned	V;V.PTCP;PST
+yearn	yearning	V;V.PTCP;PRS
+yearn	yearns	V;3;SG;PRS
+yearn	yearn	V;NFIN
+
+decant	decanted	V;PST
+decant	decanted	V;V.PTCP;PST
+decant	decanting	V;V.PTCP;PRS
+decant	decants	V;3;SG;PRS
+decant	decant	V;NFIN
+
+counterpunch	counterpunched	V;PST
+counterpunch	counterpunched	V;V.PTCP;PST
+counterpunch	counterpunches	V;3;SG;PRS
+counterpunch	counterpunching	V;V.PTCP;PRS
+counterpunch	counterpunch	V;NFIN
+
+valet	valeted	V;PST
+valet	valeted	V;V.PTCP;PST
+valet	valeting	V;V.PTCP;PRS
+valet	valets	V;3;SG;PRS
+valet	valet	V;NFIN
+
+ming	meint	V;PST
+ming	meint	V;V.PTCP;PST
+ming	ment	V;PST
+ming	ment	V;V.PTCP;PST
+ming	minged	V;PST
+ming	minged	V;V.PTCP;PST
+ming	minging	V;V.PTCP;PRS
+ming	mings	V;3;SG;PRS
+ming	ming	V;NFIN
+
+unmask	unmasked	V;PST
+unmask	unmasked	V;V.PTCP;PST
+unmask	unmasking	V;V.PTCP;PRS
+unmask	unmasks	V;3;SG;PRS
+unmask	unmask	V;NFIN
+
+commercialise	commercialised	V;PST
+commercialise	commercialised	V;V.PTCP;PST
+commercialise	commercialises	V;3;SG;PRS
+commercialise	commercialise	V;NFIN
+commercialise	commercialising	V;V.PTCP;PRS
+
+ruffle	ruffled	V;PST
+ruffle	ruffled	V;V.PTCP;PST
+ruffle	ruffles	V;3;SG;PRS
+ruffle	ruffle	V;NFIN
+ruffle	ruffling	V;V.PTCP;PRS
+
+bracket	bracketed	V;PST
+bracket	bracketed	V;V.PTCP;PST
+bracket	bracketing	V;V.PTCP;PRS
+bracket	brackets	V;3;SG;PRS
+bracket	bracket	V;NFIN
+
+reissue	reissued	V;PST
+reissue	reissued	V;V.PTCP;PST
+reissue	reissues	V;3;SG;PRS
+reissue	reissue	V;NFIN
+reissue	reissuing	V;V.PTCP;PRS
+
+ablate	ablated	V;PST
+ablate	ablated	V;V.PTCP;PST
+ablate	ablates	V;3;SG;PRS
+ablate	ablate	V;NFIN
+ablate	ablating	V;V.PTCP;PRS
+
+unqualify	unqualified	V;PST
+unqualify	unqualified	V;V.PTCP;PST
+unqualify	unqualifies	V;3;SG;PRS
+unqualify	unqualifying	V;V.PTCP;PRS
+unqualify	unqualify	V;NFIN
+
+dissatisfy	dissatisfied	V;PST
+dissatisfy	dissatisfied	V;V.PTCP;PST
+dissatisfy	dissatisfies	V;3;SG;PRS
+dissatisfy	dissatisfying	V;V.PTCP;PRS
+dissatisfy	dissatisfy	V;NFIN
+
+cube	cubed	V;PST
+cube	cubed	V;V.PTCP;PST
+cube	cubes	V;3;SG;PRS
+cube	cube	V;NFIN
+cube	cubing	V;V.PTCP;PRS
+
+reeve	reeved	V;PST
+reeve	reeved	V;V.PTCP;PST
+reeve	reeves	V;3;SG;PRS
+reeve	reeve	V;NFIN
+reeve	reeving	V;V.PTCP;PRS
+
+wildcat	wildcats	V;3;SG;PRS
+wildcat	wildcatted	V;PST
+wildcat	wildcatted	V;V.PTCP;PST
+wildcat	wildcatting	V;V.PTCP;PRS
+wildcat	wildcat	V;NFIN
+
+veer	veered	V;PST
+veer	veered	V;V.PTCP;PST
+veer	veering	V;V.PTCP;PRS
+veer	veers	V;3;SG;PRS
+veer	veer	V;NFIN
+
+fetter	fettered	V;PST
+fetter	fettered	V;V.PTCP;PST
+fetter	fettering	V;V.PTCP;PRS
+fetter	fetters	V;3;SG;PRS
+fetter	fetter	V;NFIN
+
+plaster	plastered	V;PST
+plaster	plastered	V;V.PTCP;PST
+plaster	plastering	V;V.PTCP;PRS
+plaster	plasters	V;3;SG;PRS
+plaster	plaster	V;NFIN
+
+environ	environed	V;PST
+environ	environed	V;V.PTCP;PST
+environ	environing	V;V.PTCP;PRS
+environ	environs	V;3;SG;PRS
+environ	environ	V;NFIN
+
+adjudge	adjudged	V;PST
+adjudge	adjudged	V;V.PTCP;PST
+adjudge	adjudges	V;3;SG;PRS
+adjudge	adjudge	V;NFIN
+adjudge	adjudging	V;V.PTCP;PRS
+
+forlese	forleses	V;3;SG;PRS
+forlese	forlese	V;NFIN
+forlese	forlesing	V;V.PTCP;PRS
+forlese	forlore	V;PST
+forlese	forlorn	V;V.PTCP;PST
+
+deputize	deputized	V;PST
+deputize	deputized	V;V.PTCP;PST
+deputize	deputizes	V;3;SG;PRS
+deputize	deputize	V;NFIN
+deputize	deputizing	V;V.PTCP;PRS
+
+uppercut	uppercuts	V;3;SG;PRS
+uppercut	uppercutting	V;V.PTCP;PRS
+uppercut	uppercut	V;NFIN
+uppercut	uppercut	V;PST
+uppercut	uppercut	V;V.PTCP;PST
+
+summarise	summarised	V;PST
+summarise	summarised	V;V.PTCP;PST
+summarise	summarises	V;3;SG;PRS
+summarise	summarise	V;NFIN
+summarise	summarising	V;V.PTCP;PRS
+
+reprise	reprised	V;PST
+reprise	reprised	V;V.PTCP;PST
+reprise	reprises	V;3;SG;PRS
+reprise	reprise	V;NFIN
+reprise	reprising	V;V.PTCP;PRS
+
+acidify	acidified	V;PST
+acidify	acidified	V;V.PTCP;PST
+acidify	acidifies	V;3;SG;PRS
+acidify	acidifying	V;V.PTCP;PRS
+acidify	acidify	V;NFIN
+
+appall	appalled	V;PST
+appall	appalled	V;V.PTCP;PST
+appall	appalling	V;V.PTCP;PRS
+appall	appalls	V;3;SG;PRS
+appall	appall	V;NFIN
+
+mimeograph	mimeographed	V;PST
+mimeograph	mimeographed	V;V.PTCP;PST
+mimeograph	mimeographing	V;V.PTCP;PRS
+mimeograph	mimeographs	V;3;SG;PRS
+mimeograph	mimeograph	V;NFIN
+
+normalize	normalized	V;PST
+normalize	normalized	V;V.PTCP;PST
+normalize	normalizes	V;3;SG;PRS
+normalize	normalize	V;NFIN
+normalize	normalizing	V;V.PTCP;PRS
+
+segue	segued	V;PST
+segue	segued	V;V.PTCP;PST
+segue	segueing	V;V.PTCP;PRS
+segue	segues	V;3;SG;PRS
+segue	segue	V;NFIN
+
+char	chared	V;PST
+char	chared	V;V.PTCP;PST
+char	charing	V;V.PTCP;PRS
+char	charred	V;PST
+char	charred	V;V.PTCP;PST
+char	charring	V;V.PTCP;PRS
+char	chars	V;3;SG;PRS
+char	char	V;NFIN
+
+unbury	unburied	V;PST
+unbury	unburied	V;V.PTCP;PST
+unbury	unburies	V;3;SG;PRS
+unbury	unburying	V;V.PTCP;PRS
+unbury	unbury	V;NFIN
+
+skirmish	skirmished	V;PST
+skirmish	skirmished	V;V.PTCP;PST
+skirmish	skirmishes	V;3;SG;PRS
+skirmish	skirmishing	V;V.PTCP;PRS
+skirmish	skirmish	V;NFIN
+
+transmigrate	transmigrated	V;PST
+transmigrate	transmigrated	V;V.PTCP;PST
+transmigrate	transmigrates	V;3;SG;PRS
+transmigrate	transmigrate	V;NFIN
+transmigrate	transmigrating	V;V.PTCP;PRS
+
+postfix	postfixed	V;PST
+postfix	postfixed	V;V.PTCP;PST
+postfix	postfixes	V;3;SG;PRS
+postfix	postfixing	V;V.PTCP;PRS
+postfix	postfix	V;NFIN
+
+photobleach	photobleached	V;PST
+photobleach	photobleached	V;V.PTCP;PST
+photobleach	photobleaches	V;3;SG;PRS
+photobleach	photobleaching	V;V.PTCP;PRS
+photobleach	photobleach	V;NFIN
+
+co-exist	co-existed	V;PST
+co-exist	co-existed	V;V.PTCP;PST
+co-exist	co-existing	V;V.PTCP;PRS
+co-exist	co-exists	V;3;SG;PRS
+co-exist	co-exist	V;NFIN
+
+deconsecrate	deconsecrated	V;PST
+deconsecrate	deconsecrated	V;V.PTCP;PST
+deconsecrate	deconsecrates	V;3;SG;PRS
+deconsecrate	deconsecrate	V;NFIN
+deconsecrate	deconsecrating	V;V.PTCP;PRS
+
+slur	slurred	V;PST
+slur	slurred	V;V.PTCP;PST
+slur	slurring	V;V.PTCP;PRS
+slur	slurs	V;3;SG;PRS
+slur	slur	V;NFIN
+
+bookend	bookended	V;PST
+bookend	bookended	V;V.PTCP;PST
+bookend	bookending	V;V.PTCP;PRS
+bookend	bookends	V;3;SG;PRS
+bookend	bookend	V;NFIN
+
+reconvert	reconverted	V;PST
+reconvert	reconverted	V;V.PTCP;PST
+reconvert	reconverting	V;V.PTCP;PRS
+reconvert	reconverts	V;3;SG;PRS
+reconvert	reconvert	V;NFIN
+
+posture	postured	V;PST
+posture	postured	V;V.PTCP;PST
+posture	postures	V;3;SG;PRS
+posture	posture	V;NFIN
+posture	posturing	V;V.PTCP;PRS
+
+supervise	supervised	V;PST
+supervise	supervised	V;V.PTCP;PST
+supervise	supervises	V;3;SG;PRS
+supervise	supervise	V;NFIN
+supervise	supervising	V;V.PTCP;PRS
+
+propound	propounded	V;PST
+propound	propounded	V;V.PTCP;PST
+propound	propounding	V;V.PTCP;PRS
+propound	propounds	V;3;SG;PRS
+propound	propound	V;NFIN
+
+parboil	parboiled	V;PST
+parboil	parboiled	V;V.PTCP;PST
+parboil	parboiling	V;V.PTCP;PRS
+parboil	parboils	V;3;SG;PRS
+parboil	parboil	V;NFIN
+
+ream	reamed	V;PST
+ream	reamed	V;V.PTCP;PST
+ream	reaming	V;V.PTCP;PRS
+ream	reams	V;3;SG;PRS
+ream	ream	V;NFIN
+
+parallel	paralleled	V;PST
+parallel	paralleled	V;V.PTCP;PST
+parallel	paralleling	V;V.PTCP;PRS
+parallel	parallelled	V;PST
+parallel	parallelled	V;V.PTCP;PST
+parallel	parallelling	V;V.PTCP;PRS
+parallel	parallels	V;3;SG;PRS
+parallel	parallel	V;NFIN
+
+damnify	damnified	V;PST
+damnify	damnified	V;V.PTCP;PST
+damnify	damnifies	V;3;SG;PRS
+damnify	damnifying	V;V.PTCP;PRS
+damnify	damnify	V;NFIN
+
+intersect	intersected	V;PST
+intersect	intersected	V;V.PTCP;PST
+intersect	intersecting	V;V.PTCP;PRS
+intersect	intersects	V;3;SG;PRS
+intersect	intersect	V;NFIN
+
+impact	impacted	V;PST
+impact	impacted	V;V.PTCP;PST
+impact	impacting	V;V.PTCP;PRS
+impact	impacts	V;3;SG;PRS
+impact	impact	V;NFIN
+
+dorsiflex	dorsiflexed	V;PST
+dorsiflex	dorsiflexed	V;V.PTCP;PST
+dorsiflex	dorsiflexes	V;3;SG;PRS
+dorsiflex	dorsiflexing	V;V.PTCP;PRS
+dorsiflex	dorsiflex	V;NFIN
+
+uptake	uptakes	V;3;SG;PRS
+uptake	uptake	V;NFIN
+uptake	uptaking	V;PST
+uptake	uptaking	V;V.PTCP;PST
+uptake	uptook	V;V.PTCP;PRS
+
+ake	aked	V;PST
+ake	aked	V;V.PTCP;PST
+ake	akes	V;3;SG;PRS
+ake	ake	V;NFIN
+ake	aking	V;V.PTCP;PRS
+
+solemnise	solemnised	V;PST
+solemnise	solemnised	V;V.PTCP;PST
+solemnise	solemnises	V;3;SG;PRS
+solemnise	solemnise	V;NFIN
+solemnise	solemnising	V;V.PTCP;PRS
+
+understudy	understudied	V;PST
+understudy	understudied	V;V.PTCP;PST
+understudy	understudies	V;3;SG;PRS
+understudy	understudying	V;V.PTCP;PRS
+understudy	understudy	V;NFIN
+
+slight	slighted	V;PST
+slight	slighted	V;V.PTCP;PST
+slight	slighting	V;V.PTCP;PRS
+slight	slights	V;3;SG;PRS
+slight	slight	V;NFIN
+
+aggravate	aggravated	V;PST
+aggravate	aggravated	V;V.PTCP;PST
+aggravate	aggravates	V;3;SG;PRS
+aggravate	aggravate	V;NFIN
+aggravate	aggravating	V;V.PTCP;PRS
+
+photoexcite	photoexcited	V;PST
+photoexcite	photoexcited	V;V.PTCP;PST
+photoexcite	photoexcites	V;3;SG;PRS
+photoexcite	photoexcite	V;NFIN
+photoexcite	photoexciting	V;V.PTCP;PRS
+
+blitz	blitzed	V;PST
+blitz	blitzed	V;V.PTCP;PST
+blitz	blitzes	V;3;SG;PRS
+blitz	blitzing	V;V.PTCP;PRS
+blitz	blitz	V;NFIN
+
+induct	inducted	V;PST
+induct	inducted	V;V.PTCP;PST
+induct	inducting	V;V.PTCP;PRS
+induct	inducts	V;3;SG;PRS
+induct	induct	V;NFIN
+
+prologue	prologued	V;PST
+prologue	prologued	V;V.PTCP;PST
+prologue	prologues	V;3;SG;PRS
+prologue	prologue	V;NFIN
+prologue	prologuing	V;V.PTCP;PRS
+
+slot	slots	V;3;SG;PRS
+slot	slotted	V;PST
+slot	slotted	V;V.PTCP;PST
+slot	slotting	V;V.PTCP;PRS
+slot	slot	V;NFIN
+
+charter	chartered	V;PST
+charter	chartered	V;V.PTCP;PST
+charter	chartering	V;V.PTCP;PRS
+charter	charters	V;3;SG;PRS
+charter	charter	V;NFIN
+
+quantize	quantized	V;PST
+quantize	quantized	V;V.PTCP;PST
+quantize	quantizes	V;3;SG;PRS
+quantize	quantize	V;NFIN
+quantize	quantizing	V;V.PTCP;PRS
+
+demonise	demonised	V;PST
+demonise	demonised	V;V.PTCP;PST
+demonise	demonises	V;3;SG;PRS
+demonise	demonise	V;NFIN
+demonise	demonising	V;V.PTCP;PRS
+
+berth	berthed	V;PST
+berth	berthed	V;V.PTCP;PST
+berth	berthing	V;V.PTCP;PRS
+berth	berths	V;3;SG;PRS
+berth	berth	V;NFIN
+
+dismount	dismounted	V;PST
+dismount	dismounted	V;V.PTCP;PST
+dismount	dismounting	V;V.PTCP;PRS
+dismount	dismounts	V;3;SG;PRS
+dismount	dismount	V;NFIN
+
+reread	rereading	V;V.PTCP;PRS
+reread	rereads	V;3;SG;PRS
+reread	reread	V;NFIN
+reread	reread	V;PST
+reread	reread	V;V.PTCP;PST
+
+clam	clammed	V;PST
+clam	clammed	V;V.PTCP;PST
+clam	clamming	V;V.PTCP;PRS
+clam	clams	V;3;SG;PRS
+clam	clam	V;NFIN
+
+outgun	outgunned	V;PST
+outgun	outgunned	V;V.PTCP;PST
+outgun	outgunning	V;V.PTCP;PRS
+outgun	outguns	V;3;SG;PRS
+outgun	outgun	V;NFIN
+
+collude	colluded	V;PST
+collude	colluded	V;V.PTCP;PST
+collude	colludes	V;3;SG;PRS
+collude	collude	V;NFIN
+collude	colluding	V;V.PTCP;PRS
+
+juxtapose	juxtaposed	V;PST
+juxtapose	juxtaposed	V;V.PTCP;PST
+juxtapose	juxtaposes	V;3;SG;PRS
+juxtapose	juxtapose	V;NFIN
+juxtapose	juxtaposing	V;V.PTCP;PRS
+
+preselect	preselected	V;PST
+preselect	preselected	V;V.PTCP;PST
+preselect	preselecting	V;V.PTCP;PRS
+preselect	preselects	V;3;SG;PRS
+preselect	preselect	V;NFIN
+
+razz	razzed	V;PST
+razz	razzed	V;V.PTCP;PST
+razz	razzes	V;3;SG;PRS
+razz	razzing	V;V.PTCP;PRS
+razz	razz	V;NFIN
+
+elongate	elongated	V;PST
+elongate	elongated	V;V.PTCP;PST
+elongate	elongates	V;3;SG;PRS
+elongate	elongate	V;NFIN
+elongate	elongating	V;V.PTCP;PRS
+
+bass	bassed	V;PST
+bass	bassed	V;V.PTCP;PST
+bass	basses	V;3;SG;PRS
+bass	bassing	V;V.PTCP;PRS
+bass	bass	V;NFIN
+
+emphasise	emphasised	V;PST
+emphasise	emphasised	V;V.PTCP;PST
+emphasise	emphasises	V;3;SG;PRS
+emphasise	emphasise	V;NFIN
+emphasise	emphasising	V;V.PTCP;PRS
+
+dequeue	dequeued	V;PST
+dequeue	dequeued	V;V.PTCP;PST
+dequeue	dequeues	V;3;SG;PRS
+dequeue	dequeue	V;NFIN
+dequeue	dequeuing	V;V.PTCP;PRS
+
+redefine	redefined	V;PST
+redefine	redefined	V;V.PTCP;PST
+redefine	redefines	V;3;SG;PRS
+redefine	redefine	V;NFIN
+redefine	redefining	V;V.PTCP;PRS
+
+personalise	personalised	V;PST
+personalise	personalised	V;V.PTCP;PST
+personalise	personalises	V;3;SG;PRS
+personalise	personalise	V;NFIN
+personalise	personalising	V;V.PTCP;PRS
+
+caulk	caulked	V;PST
+caulk	caulked	V;V.PTCP;PST
+caulk	caulking	V;V.PTCP;PRS
+caulk	caulks	V;3;SG;PRS
+caulk	caulk	V;NFIN
+
+coyote	coyoted	V;PST
+coyote	coyoted	V;V.PTCP;PST
+coyote	coyoteing	V;V.PTCP;PRS
+coyote	coyotes	V;3;SG;PRS
+coyote	coyote	V;NFIN
+coyote	coyoting	V;V.PTCP;PRS
+
+hyperextend	hyperextended	V;PST
+hyperextend	hyperextended	V;V.PTCP;PST
+hyperextend	hyperextending	V;V.PTCP;PRS
+hyperextend	hyperextends	V;3;SG;PRS
+hyperextend	hyperextend	V;NFIN
+
+amass	amassed	V;PST
+amass	amassed	V;V.PTCP;PST
+amass	amasses	V;3;SG;PRS
+amass	amassing	V;V.PTCP;PRS
+amass	amass	V;NFIN
+
+parch	parched	V;PST
+parch	parched	V;V.PTCP;PST
+parch	parches	V;3;SG;PRS
+parch	parching	V;V.PTCP;PRS
+parch	parch	V;NFIN
+
+wheeze	wheezed	V;PST
+wheeze	wheezed	V;V.PTCP;PST
+wheeze	wheezes	V;3;SG;PRS
+wheeze	wheeze	V;NFIN
+wheeze	wheezing	V;V.PTCP;PRS
+
+virialize	virialized	V;PST
+virialize	virialized	V;V.PTCP;PST
+virialize	virializes	V;3;SG;PRS
+virialize	virialize	V;NFIN
+virialize	virializing	V;V.PTCP;PRS
+
+instigate	instigated	V;PST
+instigate	instigated	V;V.PTCP;PST
+instigate	instigates	V;3;SG;PRS
+instigate	instigate	V;NFIN
+instigate	instigating	V;V.PTCP;PRS
+
+centrifuge	centrifuged	V;PST
+centrifuge	centrifuged	V;V.PTCP;PST
+centrifuge	centrifuges	V;3;SG;PRS
+centrifuge	centrifuge	V;NFIN
+centrifuge	centrifuging	V;V.PTCP;PRS
+
+scud	scudded	V;PST
+scud	scudded	V;V.PTCP;PST
+scud	scudding	V;V.PTCP;PRS
+scud	scuds	V;3;SG;PRS
+scud	scud	V;NFIN
+
+re-use	re-used	V;PST
+re-use	re-used	V;V.PTCP;PST
+re-use	re-uses	V;3;SG;PRS
+re-use	re-use	V;NFIN
+re-use	re-using	V;V.PTCP;PRS
+
+hod	hodded	V;PST
+hod	hodded	V;V.PTCP;PST
+hod	hodding	V;V.PTCP;PRS
+hod	hods	V;3;SG;PRS
+hod	hod	V;NFIN
+
+embark	embarked	V;PST
+embark	embarked	V;V.PTCP;PST
+embark	embarking	V;V.PTCP;PRS
+embark	embarks	V;3;SG;PRS
+embark	embark	V;NFIN
+
+veneer	veneered	V;PST
+veneer	veneered	V;V.PTCP;PST
+veneer	veneering	V;V.PTCP;PRS
+veneer	veneers	V;3;SG;PRS
+veneer	veneer	V;NFIN
+
+inactivate	inactivated	V;PST
+inactivate	inactivated	V;V.PTCP;PST
+inactivate	inactivates	V;3;SG;PRS
+inactivate	inactivate	V;NFIN
+inactivate	inactivating	V;V.PTCP;PRS
+
+baulk	baulked	V;PST
+baulk	baulked	V;V.PTCP;PST
+baulk	baulking	V;V.PTCP;PRS
+baulk	baulks	V;3;SG;PRS
+baulk	baulk	V;NFIN
+
+gap	gapped	V;PST
+gap	gapped	V;V.PTCP;PST
+gap	gapping	V;V.PTCP;PRS
+gap	gaps	V;3;SG;PRS
+gap	gap	V;NFIN
+
+monospace	monospaced	V;PST
+monospace	monospaced	V;V.PTCP;PST
+monospace	monospaces	V;3;SG;PRS
+monospace	monospace	V;NFIN
+monospace	monospacing	V;V.PTCP;PRS
+
+jot	jots	V;3;SG;PRS
+jot	jotted	V;PST
+jot	jotted	V;V.PTCP;PST
+jot	jotting	V;V.PTCP;PRS
+jot	jot	V;NFIN
+
+evict	evicted	V;PST
+evict	evicted	V;V.PTCP;PST
+evict	evicting	V;V.PTCP;PRS
+evict	evicts	V;3;SG;PRS
+evict	evict	V;NFIN
+
+skateboard	skateboarded	V;PST
+skateboard	skateboarded	V;V.PTCP;PST
+skateboard	skateboarding	V;V.PTCP;PRS
+skateboard	skateboards	V;3;SG;PRS
+skateboard	skateboard	V;NFIN
+
+roil	roiled	V;PST
+roil	roiled	V;V.PTCP;PST
+roil	roiling	V;V.PTCP;PRS
+roil	roils	V;3;SG;PRS
+roil	roil	V;NFIN
+
+smirk	smirked	V;PST
+smirk	smirked	V;V.PTCP;PST
+smirk	smirking	V;V.PTCP;PRS
+smirk	smirks	V;3;SG;PRS
+smirk	smirk	V;NFIN
+
+gripe	griped	V;PST
+gripe	griped	V;V.PTCP;PST
+gripe	gripes	V;3;SG;PRS
+gripe	gripe	V;NFIN
+gripe	griping	V;V.PTCP;PRS
+
+concretize	concretized	V;PST
+concretize	concretized	V;V.PTCP;PST
+concretize	concretizes	V;3;SG;PRS
+concretize	concretize	V;NFIN
+concretize	concretizing	V;V.PTCP;PRS
+
+unformat	unformats	V;3;SG;PRS
+unformat	unformatted	V;PST
+unformat	unformatted	V;V.PTCP;PST
+unformat	unformatting	V;V.PTCP;PRS
+unformat	unformat	V;NFIN
+
+rebaptize	rebaptized	V;PST
+rebaptize	rebaptized	V;V.PTCP;PST
+rebaptize	rebaptizes	V;3;SG;PRS
+rebaptize	rebaptize	V;NFIN
+rebaptize	rebaptizing	V;V.PTCP;PRS
+
+unclutter	uncluttered	V;PST
+unclutter	uncluttered	V;V.PTCP;PST
+unclutter	uncluttering	V;V.PTCP;PRS
+unclutter	unclutters	V;3;SG;PRS
+unclutter	unclutter	V;NFIN
+
+retitle	retitled	V;PST
+retitle	retitled	V;V.PTCP;PST
+retitle	retitles	V;3;SG;PRS
+retitle	retitle	V;NFIN
+retitle	retitling	V;V.PTCP;PRS
+
+underdetermine	underdetermined	V;PST
+underdetermine	underdetermined	V;V.PTCP;PST
+underdetermine	underdetermines	V;3;SG;PRS
+underdetermine	underdetermine	V;NFIN
+underdetermine	underdetermining	V;V.PTCP;PRS
+
+mischaracterize	mischaracterized	V;PST
+mischaracterize	mischaracterized	V;V.PTCP;PST
+mischaracterize	mischaracterizes	V;3;SG;PRS
+mischaracterize	mischaracterize	V;NFIN
+mischaracterize	mischaracterizing	V;V.PTCP;PRS
+
+highlight	highlighted	V;PST
+highlight	highlighted	V;V.PTCP;PST
+highlight	highlighting	V;V.PTCP;PRS
+highlight	highlights	V;3;SG;PRS
+highlight	highlight	V;NFIN
+
+wist	wisted	V;PST
+wist	wisted	V;V.PTCP;PST
+wist	wisting	V;V.PTCP;PRS
+wist	wists	V;3;SG;PRS
+wist	wist	V;NFIN
+
+fever	fevered	V;PST
+fever	fevered	V;V.PTCP;PST
+fever	fevering	V;V.PTCP;PRS
+fever	fevers	V;3;SG;PRS
+fever	fever	V;NFIN
+
+transduce	transduced	V;PST
+transduce	transduced	V;V.PTCP;PST
+transduce	transduces	V;3;SG;PRS
+transduce	transduce	V;NFIN
+transduce	transducing	V;V.PTCP;PRS
+
+festoon	festooned	V;PST
+festoon	festooned	V;V.PTCP;PST
+festoon	festooning	V;V.PTCP;PRS
+festoon	festoons	V;3;SG;PRS
+festoon	festoon	V;NFIN
+
+avulse	avulsed	V;PST
+avulse	avulsed	V;V.PTCP;PST
+avulse	avulses	V;3;SG;PRS
+avulse	avulse	V;NFIN
+avulse	avulsing	V;V.PTCP;PRS
+
+foredoom	foredoomed	V;PST
+foredoom	foredoomed	V;V.PTCP;PST
+foredoom	foredooming	V;V.PTCP;PRS
+foredoom	foredooms	V;3;SG;PRS
+foredoom	foredoom	V;NFIN
+
+indwell	indwelled	V;PST
+indwell	indwelled	V;V.PTCP;PST
+indwell	indwelling	V;V.PTCP;PRS
+indwell	indwells	V;3;SG;PRS
+indwell	indwell	V;NFIN
+indwell	indwelt	V;PST
+indwell	indwelt	V;V.PTCP;PST
+
+formalize	formalized	V;PST
+formalize	formalized	V;V.PTCP;PST
+formalize	formalizes	V;3;SG;PRS
+formalize	formalize	V;NFIN
+formalize	formalizing	V;V.PTCP;PRS
+
+reradiate	reradiated	V;PST
+reradiate	reradiated	V;V.PTCP;PST
+reradiate	reradiates	V;3;SG;PRS
+reradiate	reradiate	V;NFIN
+reradiate	reradiating	V;V.PTCP;PRS
+
+mushroom	mushroomed	V;PST
+mushroom	mushroomed	V;V.PTCP;PST
+mushroom	mushrooming	V;V.PTCP;PRS
+mushroom	mushrooms	V;3;SG;PRS
+mushroom	mushroom	V;NFIN
+
+tweak	tweaked	V;PST
+tweak	tweaked	V;V.PTCP;PST
+tweak	tweaking	V;V.PTCP;PRS
+tweak	tweaks	V;3;SG;PRS
+tweak	tweak	V;NFIN
+
+hypertrophy	hypertrophied	V;PST
+hypertrophy	hypertrophied	V;V.PTCP;PST
+hypertrophy	hypertrophies	V;3;SG;PRS
+hypertrophy	hypertrophying	V;V.PTCP;PRS
+hypertrophy	hypertrophy	V;NFIN
+
+raid	raided	V;PST
+raid	raided	V;V.PTCP;PST
+raid	raiding	V;V.PTCP;PRS
+raid	raids	V;3;SG;PRS
+raid	raid	V;NFIN
+
+coarticulate	coarticulated	V;PST
+coarticulate	coarticulated	V;V.PTCP;PST
+coarticulate	coarticulates	V;3;SG;PRS
+coarticulate	coarticulate	V;NFIN
+coarticulate	coarticulating	V;V.PTCP;PRS
+
+braid	braided	V;PST
+braid	braided	V;V.PTCP;PST
+braid	braiding	V;V.PTCP;PRS
+braid	braids	V;3;SG;PRS
+braid	braid	V;NFIN
+braid	browden	V;V.PTCP;PST
+
+unstress	unstressed	V;PST
+unstress	unstressed	V;V.PTCP;PST
+unstress	unstresses	V;3;SG;PRS
+unstress	unstressing	V;V.PTCP;PRS
+unstress	unstress	V;NFIN
+
+repopularise	repopularised	V;PST
+repopularise	repopularised	V;V.PTCP;PST
+repopularise	repopularises	V;3;SG;PRS
+repopularise	repopularise	V;NFIN
+repopularise	repopularising	V;V.PTCP;PRS
+
+juice	juiced	V;PST
+juice	juiced	V;V.PTCP;PST
+juice	juices	V;3;SG;PRS
+juice	juice	V;NFIN
+juice	juicing	V;V.PTCP;PRS
+
+typecast	typecasted	V;PST
+typecast	typecasted	V;V.PTCP;PST
+typecast	typecasting	V;V.PTCP;PRS
+typecast	typecasts	V;3;SG;PRS
+typecast	typecast	V;NFIN
+typecast	typecast	V;PST
+typecast	typecast	V;V.PTCP;PST
+
+restart	restarted	V;PST
+restart	restarted	V;V.PTCP;PST
+restart	restarting	V;V.PTCP;PRS
+restart	restarts	V;3;SG;PRS
+restart	restart	V;NFIN
+
+overrev	overrevs	V;3;SG;PRS
+overrev	overrevved	V;PST
+overrev	overrevved	V;V.PTCP;PST
+overrev	overrevving	V;V.PTCP;PRS
+overrev	overrev	V;NFIN
+
+controvert	controverted	V;PST
+controvert	controverted	V;V.PTCP;PST
+controvert	controverting	V;V.PTCP;PRS
+controvert	controverts	V;3;SG;PRS
+controvert	controvert	V;NFIN
+
+fossilise	fossilised	V;PST
+fossilise	fossilised	V;V.PTCP;PST
+fossilise	fossilises	V;3;SG;PRS
+fossilise	fossilise	V;NFIN
+fossilise	fossilising	V;V.PTCP;PRS
+
