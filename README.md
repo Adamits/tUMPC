@@ -37,6 +37,7 @@ The induced paradigms from running various paradigm clustering systems
 
 ## Citation
 
+```
 @inproceedings{wiemerslageetal-2022-morphological,
     title = "Morphological Processing of Low-Resource Languages: Where We Are and What{'}s Next",
     author = "Wiemerslage, Adam  and
@@ -55,3 +56,4 @@ The induced paradigms from running various paradigm clustering systems
     doi = "10.18653/v1/2022.findings-acl.80",
     pages = "988--1007",
 }
+```
