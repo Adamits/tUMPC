@@ -1,0 +1,4 @@
+fasttext
+numpy
+sklearn
+tqdm
